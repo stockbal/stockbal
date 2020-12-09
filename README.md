@@ -1,4 +1,4 @@
-### Hi there 👋
+![My Github stats](https://github-readme-stats.vercel.app/api?username=stockbal&show_icons=true&theme=great-gatsby)
 
 <!--
 **stockbal/stockbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
