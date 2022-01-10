@@ -1,5 +1,5 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=stockbal&show_icons=true&theme=great-gatsby)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stockbal&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **stockbal/stockbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
