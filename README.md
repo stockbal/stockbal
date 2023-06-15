@@ -1,16 +1,19 @@
+<h1 align="center">
+👋 Welcome to Ludwig Stockbauer-Muhr's Profile
+</h1>
+
+![GitHub followers](https://img.shields.io/github/followers/stockbal?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stocki3?style=social&link=https://twitter.com/stocki3)](https://twitter.com/stocki3)
+
+## Some statistics
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=stockbal&show_icons=true&theme=great-gatsby&hide_border=true" alt="Ludwig's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stockbal&theme=great-gatsby&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
-<!--
-**stockbal/stockbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an SAP developer at msg systems with focus on app development in SAP BTP
+
+## What am I passionate about
+
+In my free time I am developing add-ons for the ABAP Development Tools in Eclipse (ADT).
