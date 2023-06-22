@@ -4,6 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/stockbal?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/stocki3?style=social&link=https://twitter.com/stocki3)](https://twitter.com/stocki3)
+[![Linkedin: Ludwig Stockbauer-Muhr](https://img.shields.io/badge/-Ludwig%20Stockbauer--Muhr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludwig-stockbauer-muhr-22133a280/)](https://www.linkedin.com/in/ludwig-stockbauer-muhr-22133a280/)
 
 ## Some statistics
 
