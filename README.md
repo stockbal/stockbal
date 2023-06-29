@@ -13,7 +13,7 @@
 
 ## Who am I
 
-I am an software developer at msg systems with focus on app development in SAP BTP
+I am a software developer at msg systems with focus on app development in SAP BTP
 
 ## What am I passionate about
 
